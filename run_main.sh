@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0 python src/train_bash.py \
+CUDA_VISIBLE_DEVICES=0 python src/train.py \
     --stage sft \
     --model_name_or_path /data/share_model/Qwen-14B-Chat/ \
     --do_train \
