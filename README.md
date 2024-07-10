@@ -15,3 +15,8 @@ https://github.com/linghs/domain-enhanced-llm-emr-qc.git
 cd domain-enhanced-llm-emr-qc
 pip install -r requirements.txt
 ```
+
+## run train
+```
+sh run_main.sh
+```
